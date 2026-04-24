@@ -1,0 +1,5 @@
+{
+  "name": "Amarous Orders",
+  "description": "Order management application for Amarous brand with PDF auto-fill.",
+  "requestFramePermissions": []
+}
